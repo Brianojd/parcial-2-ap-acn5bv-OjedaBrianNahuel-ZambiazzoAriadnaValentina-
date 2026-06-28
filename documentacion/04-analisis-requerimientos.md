@@ -64,26 +64,21 @@
 **quiero** registrar y actualizar tareas dentro de cada obra,  
 **para** controlar el avance operativo del proyecto.
 
-### HU04 - Seguimiento de avances
-**Como** encargado de obra,  
-**quiero** registrar el progreso de las actividades,  
-**para** mantener actualizado el estado de la obra.
-
 ---
 
 ## 3: Empleados de Obra
 
-### HU05 - Consulta de obras
+### HU04 - Consulta de obras
 **Como** empleado de obra,  
 **quiero** consultar la información de la obra en la que trabajo,  
 **para** entender el contexto de mis tareas.
 
-### HU06 - Consulta de tareas
+### HU05 - Consulta de tareas
 **Como** empleado de obra,  
 **quiero** ver mis tareas asignadas,  
 **para** saber qué actividades debo realizar.
 
-### HU07 - Reporte de actividades
+### HU06 - Reporte de actividades
 **Como** empleado de obra,  
 **quiero** informar el estado de mis tareas,  
 **para** mantener actualizado el progreso del proyecto.
@@ -92,17 +87,17 @@
 
 ## 4: Área Administrativa
 
-### HU08 - Registrar Empleados
+### HU07 - Registrar Empleados
 **Como** área administrativa,  
 **quiero** registrar empleados en el sistema,  
 **para** poder asignarlos posteriormente a las distintas obras de construcción.
 
-### HU09 - Registrar Obras
+### HU08 - Registrar Obras
 **Como** área administrativa,  
 **quiero** registrar obras en el sistema,  
 **para** gestionar los proyectos de construcción de forma centralizada.
 
-### HU10 - Generación de reportes
+### HU09 - Generación de reportes
 **Como** área administrativa,  
 **quiero** consultar resúmenes del estado de las obras,  
 **para** apoyar tareas de seguimiento y control.
