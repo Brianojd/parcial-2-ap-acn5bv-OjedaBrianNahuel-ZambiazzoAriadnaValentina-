@@ -34,7 +34,7 @@
 ## Requerimientos no funcionales
 
 - **RNF01:** El sistema deberá requerir autenticación para acceder a la información. Garantizar que únicamente usuarios autorizados puedan utilizar la plataforma.
-- **RNF02:** El sistema debe responder a las acciones del usuario en menos de 2 segundos.
+- **RNF02:** La interfaz deberá ser intuitiva y fácil de utilizar para empleados y encargados de obra.
 - **RNF03:** El sistema debe ser escalable para futuras funcionalidades.
 
 ---
